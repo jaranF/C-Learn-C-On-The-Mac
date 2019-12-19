@@ -1,0 +1,371 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		971AF7792399FF7A00021E3F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7782399FF7A00021E3F /* main.c */; };
+		971AF78B2399FFC800021E3F /* eg-__7-fgets-for-getting-keyboard-input.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7802399FFC800021E3F /* eg-__7-fgets-for-getting-keyboard-input.c */; };
+		971AF78C2399FFC800021E3F /* eg-__6a-linked-list-implementation-block-loading-struct.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7812399FFC800021E3F /* eg-__6a-linked-list-implementation-block-loading-struct.c */; };
+		971AF78D2399FFC800021E3F /* eg-__6-linked-list-implementation-with-struct.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7822399FFC800021E3F /* eg-__6-linked-list-implementation-with-struct.c */; };
+		971AF78E2399FFC800021E3F /* eg-__5-understanding-malloc-and-struct-pointers.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7832399FFC800021E3F /* eg-__5-understanding-malloc-and-struct-pointers.c */; };
+		971AF78F2399FFC800021E3F /* eg-__4-passing-structs-as-args.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7842399FFC800021E3F /* eg-__4-passing-structs-as-args.c */; };
+		971AF7902399FFC800021E3F /* eg-__3a-more-struct-tryouts.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7852399FFC800021E3F /* eg-__3a-more-struct-tryouts.c */; };
+		971AF7912399FFC800021E3F /* eg-__3-introducing-struct.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7862399FFC800021E3F /* eg-__3-introducing-struct.c */; };
+		971AF7922399FFC800021E3F /* eg-__2-dvdlisted-model-a-arrays.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7872399FFC800021E3F /* eg-__2-dvdlisted-model-a-arrays.c */; };
+		971AF7932399FFC800021E3F /* eg-__1a-multidimarrays-char.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7882399FFC800021E3F /* eg-__1a-multidimarrays-char.c */; };
+		971AF7942399FFC800021E3F /* eg-__1-multidimarrays.c in Sources */ = {isa = PBXBuildFile; fileRef = 971AF7892399FFC800021E3F /* eg-__1-multidimarrays.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		971AF7732399FF7A00021E3F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		971AF7752399FF7A00021E3F /* chap-10 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "chap-10"; sourceTree = BUILT_PRODUCTS_DIR; };
+		971AF7782399FF7A00021E3F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		971AF77F2399FFC800021E3F /* StructSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StructSize.h; sourceTree = "<group>"; };
+		971AF7802399FFC800021E3F /* eg-__7-fgets-for-getting-keyboard-input.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__7-fgets-for-getting-keyboard-input.c"; sourceTree = "<group>"; };
+		971AF7812399FFC800021E3F /* eg-__6a-linked-list-implementation-block-loading-struct.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__6a-linked-list-implementation-block-loading-struct.c"; sourceTree = "<group>"; };
+		971AF7822399FFC800021E3F /* eg-__6-linked-list-implementation-with-struct.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__6-linked-list-implementation-with-struct.c"; sourceTree = "<group>"; };
+		971AF7832399FFC800021E3F /* eg-__5-understanding-malloc-and-struct-pointers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__5-understanding-malloc-and-struct-pointers.c"; sourceTree = "<group>"; };
+		971AF7842399FFC800021E3F /* eg-__4-passing-structs-as-args.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__4-passing-structs-as-args.c"; sourceTree = "<group>"; };
+		971AF7852399FFC800021E3F /* eg-__3a-more-struct-tryouts.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__3a-more-struct-tryouts.c"; sourceTree = "<group>"; };
+		971AF7862399FFC800021E3F /* eg-__3-introducing-struct.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__3-introducing-struct.c"; sourceTree = "<group>"; };
+		971AF7872399FFC800021E3F /* eg-__2-dvdlisted-model-a-arrays.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__2-dvdlisted-model-a-arrays.c"; sourceTree = "<group>"; };
+		971AF7882399FFC800021E3F /* eg-__1a-multidimarrays-char.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__1a-multidimarrays-char.c"; sourceTree = "<group>"; };
+		971AF7892399FFC800021E3F /* eg-__1-multidimarrays.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__1-multidimarrays.c"; sourceTree = "<group>"; };
+		971AF78A2399FFC800021E3F /* DVDTracker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVDTracker.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		971AF7722399FF7A00021E3F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		971AF76C2399FF7A00021E3F = {
+			isa = PBXGroup;
+			children = (
+				971AF7782399FF7A00021E3F /* main.c */,
+				971AF7952399FFFF00021E3F /* eg-__1-multidimarrays */,
+				971AF796239A003900021E3F /* eg-__1a-multidimarrays-char */,
+				971AF797239A009000021E3F /* eg-__2-dvdlisted-model-a-arrays */,
+				971AF798239A00F500021E3F /* eg-__3-introducing-struct */,
+				971AF799239A013200021E3F /* eg-__3a-more-struct-tryouts */,
+				971AF79A239A016D00021E3F /* eg-__4-passing-structs-as-args */,
+				971AF79B239A883300021E3F /* eg-__5-understanding-malloc-and-struct-pointers */,
+				971AF79C239A88CA00021E3F /* eg-__6a-linked-list-implementation-block-loading-struct */,
+				971AF79D239A890E00021E3F /* eg-__6-linked-list-implementation-with-struct */,
+				971AF79E239A89A100021E3F /* eg-__7-fgets-for-getting-keyboard-input */,
+				971AF7762399FF7A00021E3F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		971AF7762399FF7A00021E3F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7752399FF7A00021E3F /* chap-10 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		971AF7952399FFFF00021E3F /* eg-__1-multidimarrays */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7892399FFC800021E3F /* eg-__1-multidimarrays.c */,
+			);
+			name = "eg-__1-multidimarrays";
+			sourceTree = "<group>";
+		};
+		971AF796239A003900021E3F /* eg-__1a-multidimarrays-char */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7882399FFC800021E3F /* eg-__1a-multidimarrays-char.c */,
+			);
+			name = "eg-__1a-multidimarrays-char";
+			sourceTree = "<group>";
+		};
+		971AF797239A009000021E3F /* eg-__2-dvdlisted-model-a-arrays */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7872399FFC800021E3F /* eg-__2-dvdlisted-model-a-arrays.c */,
+			);
+			name = "eg-__2-dvdlisted-model-a-arrays";
+			sourceTree = "<group>";
+		};
+		971AF798239A00F500021E3F /* eg-__3-introducing-struct */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7862399FFC800021E3F /* eg-__3-introducing-struct.c */,
+				971AF77F2399FFC800021E3F /* StructSize.h */,
+				971AF78A2399FFC800021E3F /* DVDTracker.h */,
+			);
+			name = "eg-__3-introducing-struct";
+			sourceTree = "<group>";
+		};
+		971AF799239A013200021E3F /* eg-__3a-more-struct-tryouts */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7852399FFC800021E3F /* eg-__3a-more-struct-tryouts.c */,
+			);
+			name = "eg-__3a-more-struct-tryouts";
+			sourceTree = "<group>";
+		};
+		971AF79A239A016D00021E3F /* eg-__4-passing-structs-as-args */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7842399FFC800021E3F /* eg-__4-passing-structs-as-args.c */,
+			);
+			name = "eg-__4-passing-structs-as-args";
+			sourceTree = "<group>";
+		};
+		971AF79B239A883300021E3F /* eg-__5-understanding-malloc-and-struct-pointers */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7832399FFC800021E3F /* eg-__5-understanding-malloc-and-struct-pointers.c */,
+			);
+			name = "eg-__5-understanding-malloc-and-struct-pointers";
+			sourceTree = "<group>";
+		};
+		971AF79C239A88CA00021E3F /* eg-__6a-linked-list-implementation-block-loading-struct */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7812399FFC800021E3F /* eg-__6a-linked-list-implementation-block-loading-struct.c */,
+			);
+			name = "eg-__6a-linked-list-implementation-block-loading-struct";
+			sourceTree = "<group>";
+		};
+		971AF79D239A890E00021E3F /* eg-__6-linked-list-implementation-with-struct */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7822399FFC800021E3F /* eg-__6-linked-list-implementation-with-struct.c */,
+			);
+			name = "eg-__6-linked-list-implementation-with-struct";
+			sourceTree = "<group>";
+		};
+		971AF79E239A89A100021E3F /* eg-__7-fgets-for-getting-keyboard-input */ = {
+			isa = PBXGroup;
+			children = (
+				971AF7802399FFC800021E3F /* eg-__7-fgets-for-getting-keyboard-input.c */,
+			);
+			name = "eg-__7-fgets-for-getting-keyboard-input";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		971AF7742399FF7A00021E3F /* chap-10 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 971AF77C2399FF7A00021E3F /* Build configuration list for PBXNativeTarget "chap-10" */;
+			buildPhases = (
+				971AF7712399FF7A00021E3F /* Sources */,
+				971AF7722399FF7A00021E3F /* Frameworks */,
+				971AF7732399FF7A00021E3F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "chap-10";
+			productName = "chap-10";
+			productReference = 971AF7752399FF7A00021E3F /* chap-10 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		971AF76D2399FF7A00021E3F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				TargetAttributes = {
+					971AF7742399FF7A00021E3F = {
+						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 9PMH42758B;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 971AF7702399FF7A00021E3F /* Build configuration list for PBXProject "chap-10" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 971AF76C2399FF7A00021E3F;
+			productRefGroup = 971AF7762399FF7A00021E3F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				971AF7742399FF7A00021E3F /* chap-10 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		971AF7712399FF7A00021E3F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				971AF78D2399FFC800021E3F /* eg-__6-linked-list-implementation-with-struct.c in Sources */,
+				971AF78B2399FFC800021E3F /* eg-__7-fgets-for-getting-keyboard-input.c in Sources */,
+				971AF7792399FF7A00021E3F /* main.c in Sources */,
+				971AF7922399FFC800021E3F /* eg-__2-dvdlisted-model-a-arrays.c in Sources */,
+				971AF7912399FFC800021E3F /* eg-__3-introducing-struct.c in Sources */,
+				971AF78E2399FFC800021E3F /* eg-__5-understanding-malloc-and-struct-pointers.c in Sources */,
+				971AF78F2399FFC800021E3F /* eg-__4-passing-structs-as-args.c in Sources */,
+				971AF7942399FFC800021E3F /* eg-__1-multidimarrays.c in Sources */,
+				971AF7902399FFC800021E3F /* eg-__3a-more-struct-tryouts.c in Sources */,
+				971AF7932399FFC800021E3F /* eg-__1a-multidimarrays-char.c in Sources */,
+				971AF78C2399FFC800021E3F /* eg-__6a-linked-list-implementation-block-loading-struct.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		971AF77A2399FF7A00021E3F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		971AF77B2399FF7A00021E3F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		971AF77D2399FF7A00021E3F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 9PMH42758B;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		971AF77E2399FF7A00021E3F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 9PMH42758B;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		971AF7702399FF7A00021E3F /* Build configuration list for PBXProject "chap-10" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				971AF77A2399FF7A00021E3F /* Debug */,
+				971AF77B2399FF7A00021E3F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		971AF77C2399FF7A00021E3F /* Build configuration list for PBXNativeTarget "chap-10" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				971AF77D2399FF7A00021E3F /* Debug */,
+				971AF77E2399FF7A00021E3F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 971AF76D2399FF7A00021E3F /* Project object */;
+}
