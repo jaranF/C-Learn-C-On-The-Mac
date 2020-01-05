@@ -1,6 +1,6 @@
 //
 //  eg-__6a-linked-list-implementation-block-loading-struct.c
-//  chap_10
+//  chap_-10
 //
 //  Created by JaranF on 28/08/2019.
 //

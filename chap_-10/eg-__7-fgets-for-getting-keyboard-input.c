@@ -1,6 +1,6 @@
 //
 //  eg-__7-fgets-for-getting-keyboard-input.c
-//  chap_10
+//  chap_-10
 //
 //  Created by JaranF on 02/09/2019.
 //
@@ -9,9 +9,9 @@
 // ... or typically ...
 // fgets(myCharBuff, sizeof(myCharBuff), stdin);
 // This keyboard function captures up to a maxiumum of myCharBuffer size MINUS 1 (that 1 is occupied
-// by the NULL char). The user has to press the 'Return' key to get 'fgets()' go off and collect the
+// by the NULL char). The user has to press the 'Return' key to get 'fgets()' to go off and collect the
 // keys pressed from the OS's key input buffer. The return char, '\n', gets included as part of what
-// 'fgets()' returns except when the maximum number of keys it's accepting is input in which case it
+// 'fgets()' returns except when the maximum number of keys it's accepting is input; in which case it
 // is not.
 // Say, fgets(myCharBuff, 5, stdin);
 // type in:
