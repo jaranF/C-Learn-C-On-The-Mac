@@ -16,7 +16,7 @@ int main(int argc, const char * argv[])
     sum = 0;
     for (number = 1; number <= 10; number++)
         sum += number;
-    printf("The sum of numbers from 1 to 10 i s %d.\n", sum);
+    printf("The sum of numbers from 1 to 10 i s %d\n", sum);
     return 0;
 }
 
