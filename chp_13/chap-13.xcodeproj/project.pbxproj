@@ -1,0 +1,374 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		97067AAE22A5E8D200C2214F /* eg-__9-enums.c in Sources */ = {isa = PBXBuildFile; fileRef = 97067AAD22A5E8D200C2214F /* eg-__9-enums.c */; };
+		97067AB322A7FB8C00C2214F /* eg-__9b-enums-passed-as-func-params.c in Sources */ = {isa = PBXBuildFile; fileRef = 97067AB122A7FB8C00C2214F /* eg-__9b-enums-passed-as-func-params.c */; };
+		97067AB622A7FDEA00C2214F /* eg-__9a-enums-with-duplicate-ints-represented.c in Sources */ = {isa = PBXBuildFile; fileRef = 97067AB522A7FDEA00C2214F /* eg-__9a-enums-with-duplicate-ints-represented.c */; };
+		970EEB6D22BE9EF800C23037 /* eg-__3-implicit-typecasting-and-function-signatures.c in Sources */ = {isa = PBXBuildFile; fileRef = 970EEB6C22BE9EF800C23037 /* eg-__3-implicit-typecasting-and-function-signatures.c */; };
+		976B16C822B7CA40006BDB6C /* eg-__9c-enums-with-typedefs.c in Sources */ = {isa = PBXBuildFile; fileRef = 976B16C722B7CA40006BDB6C /* eg-__9c-enums-with-typedefs.c */; };
+		9774257E22D4B5E50069F900 /* eg-__5-seven-rules-of-conversion.c in Sources */ = {isa = PBXBuildFile; fileRef = 9774257D22D4B5E50069F900 /* eg-__5-seven-rules-of-conversion.c */; };
+		9787DF262374D6E0005F23E9 /* eg-__0-error-proofing-your-code.c in Sources */ = {isa = PBXBuildFile; fileRef = 9787DF252374D6E0005F23E9 /* eg-__0-error-proofing-your-code.c */; };
+		97B3D2982271ED84000E6772 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 97B3D2972271ED84000E6772 /* main.c */; };
+		97B3D2A02271EE77000E6772 /* eg-__1-implicit-typecasting.c in Sources */ = {isa = PBXBuildFile; fileRef = 97B3D29F2271EE77000E6772 /* eg-__1-implicit-typecasting.c */; };
+		97B3D2A8227214C6000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast.c in Sources */ = {isa = PBXBuildFile; fileRef = 97B3D2A6227214C6000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast.c */; };
+		97EF8E5722AD32D50081933F /* eg-__4-int-safely-converted-to-long-int-and-long-long-int.c in Sources */ = {isa = PBXBuildFile; fileRef = 97EF8E5622AD32D50081933F /* eg-__4-int-safely-converted-to-long-int-and-long-long-int.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		97B3D2922271ED84000E6772 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		97067AAD22A5E8D200C2214F /* eg-__9-enums.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__9-enums.c"; sourceTree = SOURCE_ROOT; };
+		97067AB122A7FB8C00C2214F /* eg-__9b-enums-passed-as-func-params.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__9b-enums-passed-as-func-params.c"; sourceTree = SOURCE_ROOT; };
+		97067AB522A7FDEA00C2214F /* eg-__9a-enums-with-duplicate-ints-represented.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__9a-enums-with-duplicate-ints-represented.c"; sourceTree = SOURCE_ROOT; };
+		970EEB6C22BE9EF800C23037 /* eg-__3-implicit-typecasting-and-function-signatures.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__3-implicit-typecasting-and-function-signatures.c"; sourceTree = SOURCE_ROOT; };
+		971FCE5623239377004A67F0 /* eg-__9b-enums-passed-as-func-params.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "eg-__9b-enums-passed-as-func-params.h"; sourceTree = SOURCE_ROOT; };
+		976B16C722B7CA40006BDB6C /* eg-__9c-enums-with-typedefs.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__9c-enums-with-typedefs.c"; sourceTree = SOURCE_ROOT; };
+		9774257D22D4B5E50069F900 /* eg-__5-seven-rules-of-conversion.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__5-seven-rules-of-conversion.c"; sourceTree = SOURCE_ROOT; };
+		9787DF252374D6E0005F23E9 /* eg-__0-error-proofing-your-code.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__0-error-proofing-your-code.c"; sourceTree = "<group>"; };
+		97B3D2942271ED84000E6772 /* chap-13 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "chap-13"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97B3D2972271ED84000E6772 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		97B3D29F2271EE77000E6772 /* eg-__1-implicit-typecasting.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__1-implicit-typecasting.c"; sourceTree = SOURCE_ROOT; };
+		97B3D2A6227214C6000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__2-lefthand-operand-controls-implicit-typecast.c"; sourceTree = SOURCE_ROOT; };
+		97B3D2A7227214C6000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "eg-__2-lefthand-operand-controls-implicit-typecast.h"; sourceTree = SOURCE_ROOT; };
+		97EF8E5622AD32D50081933F /* eg-__4-int-safely-converted-to-long-int-and-long-long-int.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__4-int-safely-converted-to-long-int-and-long-long-int.c"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		97B3D2912271ED84000E6772 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		97067AAC22A5E88C00C2214F /* eg-__9-enums */ = {
+			isa = PBXGroup;
+			children = (
+				97067AAD22A5E8D200C2214F /* eg-__9-enums.c */,
+			);
+			name = "eg-__9-enums";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		97067AB022A7FAB200C2214F /* eg-__9b-enums-passed_as_func_params */ = {
+			isa = PBXGroup;
+			children = (
+				971FCE5623239377004A67F0 /* eg-__9b-enums-passed-as-func-params.h */,
+				97067AB122A7FB8C00C2214F /* eg-__9b-enums-passed-as-func-params.c */,
+			);
+			name = "eg-__9b-enums-passed_as_func_params";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		97067AB422A7FDB500C2214F /* eg-__9a-enums-with-duplicate-ints-represented */ = {
+			isa = PBXGroup;
+			children = (
+				97067AB522A7FDEA00C2214F /* eg-__9a-enums-with-duplicate-ints-represented.c */,
+			);
+			name = "eg-__9a-enums-with-duplicate-ints-represented";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		970EEB6B22BE9EA200C23037 /* eg-__3-implicit-typecasting-and-function-signatures */ = {
+			isa = PBXGroup;
+			children = (
+				970EEB6C22BE9EF800C23037 /* eg-__3-implicit-typecasting-and-function-signatures.c */,
+			);
+			name = "eg-__3-implicit-typecasting-and-function-signatures";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		970EEB6E22BEA2BE00C23037 /* eg-__5-seven-rules-of-conversion */ = {
+			isa = PBXGroup;
+			children = (
+				9774257D22D4B5E50069F900 /* eg-__5-seven-rules-of-conversion.c */,
+			);
+			name = "eg-__5-seven-rules-of-conversion";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		976B16C622B7C9FF006BDB6C /* eg-__9c-enums-with-typedefs */ = {
+			isa = PBXGroup;
+			children = (
+				976B16C722B7CA40006BDB6C /* eg-__9c-enums-with-typedefs.c */,
+			);
+			name = "eg-__9c-enums-with-typedefs";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		9787DF242374D695005F23E9 /* eg-__0-error-proofing-your-code */ = {
+			isa = PBXGroup;
+			children = (
+				9787DF252374D6E0005F23E9 /* eg-__0-error-proofing-your-code.c */,
+			);
+			name = "eg-__0-error-proofing-your-code";
+			sourceTree = "<group>";
+		};
+		97B3D28B2271ED84000E6772 = {
+			isa = PBXGroup;
+			children = (
+				97B3D2972271ED84000E6772 /* main.c */,
+				9787DF242374D695005F23E9 /* eg-__0-error-proofing-your-code */,
+				97067AAC22A5E88C00C2214F /* eg-__9-enums */,
+				976B16C622B7C9FF006BDB6C /* eg-__9c-enums-with-typedefs */,
+				97067AB022A7FAB200C2214F /* eg-__9b-enums-passed_as_func_params */,
+				97067AB422A7FDB500C2214F /* eg-__9a-enums-with-duplicate-ints-represented */,
+				970EEB6E22BEA2BE00C23037 /* eg-__5-seven-rules-of-conversion */,
+				97EF8E5522AD32490081933F /* eg-__4-int-safely-converted-to-long-int-and-long-long-int */,
+				970EEB6B22BE9EA200C23037 /* eg-__3-implicit-typecasting-and-function-signatures */,
+				97B3D2A52271F8CC000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast */,
+				97B3D29E2271ED8C000E6772 /* eg-__1-implicit-typecasting */,
+				97B3D2952271ED84000E6772 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		97B3D2952271ED84000E6772 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97B3D2942271ED84000E6772 /* chap-13 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		97B3D29E2271ED8C000E6772 /* eg-__1-implicit-typecasting */ = {
+			isa = PBXGroup;
+			children = (
+				97B3D29F2271EE77000E6772 /* eg-__1-implicit-typecasting.c */,
+			);
+			name = "eg-__1-implicit-typecasting";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		97B3D2A52271F8CC000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast */ = {
+			isa = PBXGroup;
+			children = (
+				97B3D2A6227214C6000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast.c */,
+				97B3D2A7227214C6000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast.h */,
+			);
+			name = "eg-__2-lefthand-operand-controls-implicit-typecast";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+		97EF8E5522AD32490081933F /* eg-__4-int-safely-converted-to-long-int-and-long-long-int */ = {
+			isa = PBXGroup;
+			children = (
+				97EF8E5622AD32D50081933F /* eg-__4-int-safely-converted-to-long-int-and-long-long-int.c */,
+			);
+			name = "eg-__4-int-safely-converted-to-long-int-and-long-long-int";
+			path = "chap-13";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97B3D2932271ED84000E6772 /* chap-13 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97B3D29B2271ED84000E6772 /* Build configuration list for PBXNativeTarget "chap-13" */;
+			buildPhases = (
+				97B3D2902271ED84000E6772 /* Sources */,
+				97B3D2912271ED84000E6772 /* Frameworks */,
+				97B3D2922271ED84000E6772 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "chap-13";
+			productName = "chap-13";
+			productReference = 97B3D2942271ED84000E6772 /* chap-13 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		97B3D28C2271ED84000E6772 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "JaranF Information Technology";
+				TargetAttributes = {
+					97B3D2932271ED84000E6772 = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 97B3D28F2271ED84000E6772 /* Build configuration list for PBXProject "chap-13" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 97B3D28B2271ED84000E6772;
+			productRefGroup = 97B3D2952271ED84000E6772 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				97B3D2932271ED84000E6772 /* chap-13 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		97B3D2902271ED84000E6772 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9787DF262374D6E0005F23E9 /* eg-__0-error-proofing-your-code.c in Sources */,
+				976B16C822B7CA40006BDB6C /* eg-__9c-enums-with-typedefs.c in Sources */,
+				97067AAE22A5E8D200C2214F /* eg-__9-enums.c in Sources */,
+				97B3D2A02271EE77000E6772 /* eg-__1-implicit-typecasting.c in Sources */,
+				97EF8E5722AD32D50081933F /* eg-__4-int-safely-converted-to-long-int-and-long-long-int.c in Sources */,
+				9774257E22D4B5E50069F900 /* eg-__5-seven-rules-of-conversion.c in Sources */,
+				97067AB622A7FDEA00C2214F /* eg-__9a-enums-with-duplicate-ints-represented.c in Sources */,
+				970EEB6D22BE9EF800C23037 /* eg-__3-implicit-typecasting-and-function-signatures.c in Sources */,
+				97B3D2982271ED84000E6772 /* main.c in Sources */,
+				97B3D2A8227214C6000E6772 /* eg-__2-lefthand-operand-controls-implicit-typecast.c in Sources */,
+				97067AB322A7FB8C00C2214F /* eg-__9b-enums-passed-as-func-params.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		97B3D2992271ED84000E6772 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		97B3D29A2271ED84000E6772 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		97B3D29C2271ED84000E6772 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_C_LANGUAGE_STANDARD = c99;
+				NEW_SETTING = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		97B3D29D2271ED84000E6772 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_C_LANGUAGE_STANDARD = c99;
+				NEW_SETTING = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		97B3D28F2271ED84000E6772 /* Build configuration list for PBXProject "chap-13" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97B3D2992271ED84000E6772 /* Debug */,
+				97B3D29A2271ED84000E6772 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97B3D29B2271ED84000E6772 /* Build configuration list for PBXNativeTarget "chap-13" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97B3D29C2271ED84000E6772 /* Debug */,
+				97B3D29D2271ED84000E6772 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 97B3D28C2271ED84000E6772 /* Project object */;
+}

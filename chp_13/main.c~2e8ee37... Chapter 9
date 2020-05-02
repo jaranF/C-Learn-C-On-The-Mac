@@ -1,0 +1,32 @@
+//
+//  main.c
+//  chap-13
+//
+//  Created by Jaran F on 25/04/2019.
+//
+#include <stdio.h>
+
+//|--------> FN PROTOTYPES <--------|
+void main_test_error_proofed_factor( void );
+void main_implicit_typecasting( void );
+void main_implicit_typecasting_and_function_signatures( void );
+void main_lefthand_operand_controls_implicit_typecast( void );
+void main_int_safely_converted_to_long_int_and_long_long_int( void );
+void main_seven_rules_of_conversion( void );
+void main_enums( void );
+void main_enums_with_duplicate_ints_represented( void );
+void main_enums_passed_as_func_params_module_scope( void );
+//|-------->      END      <--------|
+
+int main(int argc, const char * argv[]) {
+    main_test_error_proofed_factor();
+    // main_implicit_typecasting();
+    // main_lefthand_operand_controls_implicit_typecast();
+    // main_implicit_typecasting_and_function_signatures();
+    // main_int_safely_converted_to_long_int_and_long_long_int();
+    // main_seven_rules_of_conversion();
+    // main_enums();
+    // main_enums_with_duplicate_ints_represented();
+    // main_enums_passed_as_func_params_module_scope();
+    return 0;
+}
