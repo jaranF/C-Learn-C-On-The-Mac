@@ -3,7 +3,6 @@
 //  chap-11
 //
 //  Created by Jaran F on 16/03/2019.
-//  Copyright © 2019 JaranF. All rights reserved.
 //
 #include <stdio.h>
 #include <assert.h>

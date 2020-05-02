@@ -1,5 +1,5 @@
 //
-//  eg-__6-fputc-write-chars-to-file.c
+//  eg-__7-fputc-write-chars-to-file.c
 //  chap-11
 //
 //  Created by Jaran F on 18/03/2019.

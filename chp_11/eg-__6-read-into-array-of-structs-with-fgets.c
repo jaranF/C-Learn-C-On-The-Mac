@@ -1,5 +1,5 @@
 //
-//  eg-__5-read-into-array-of-structs-with-fgets.c
+//  eg-__6-read-into-array-of-structs-with-fgets.c
 //  chap-11
 //
 //  Created by Jaran F on 16/03/2019.

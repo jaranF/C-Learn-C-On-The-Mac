@@ -1,5 +1,5 @@
 //
-//  eg-__1-fgetc-readchar.c
+//  eg-__2-fgetc-readchar.c
 //  chap-11
 //
 //  Created by Jaran F on 20/02/2019.

@@ -1,5 +1,5 @@
 //
-//  eg-__3-fscanf-exploration.c
+//  eg-__4-fscanf-exploration.c
 //  chap-11
 //
 //  Created by JaranF on 14/09/2019.
@@ -76,10 +76,8 @@ int main_fscanf_exploration_line_at_a_time()
         printf("\n");
         //printf("myFooPtrLinkedList->field1 = %s\n", myFooPtrLinkedList->field1);
         printAllLinkedListItems(myFooPtrLinkedList);
-        fclose( fp );
-        
+        fclose(fp);
         freeList(myFooPtrLinkedList);
-        
     }
     return retValue;
 }
