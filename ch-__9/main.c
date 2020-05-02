@@ -11,6 +11,9 @@ int main_seeArgs( int, const char* argv[] );
 void namer( void );
 void main_pointer_arithmetic_equality( void );
 void main_pointer_arithmetic_addition( void );
+void main_pointer_arithmetic_subtraction( void );
+int main_pointer_arithmetic_equivalency( void );
+void main_pointer_equivalency_with_chars( void );
 int main_scanf_used_to_read_in_integers( void );
 int main_scanf_read_keyinput_len_restricted( void );
 int main_scanf_read_in_alpha_chars_only( void );
@@ -27,10 +30,12 @@ int main_roman_numerals( int, const char * argv[] );
 
 int main(int argc, const char * argv[])
 {
-    main_seeArgs(argc, argv);
+    // main_seeArgs(argc, argv);
     // namer();
     // main_pointer_arithmetic_equality();
     // main_pointer_arithmetic_addition();
+    // main_pointer_arithmetic_equivalency();
+    main_pointer_equivalency_with_chars();
     // printf("The return int value of \'scanf()\' is %1d\n", main_scanf_used_to_read_in_integers());
     // printf("The return int value of \'scanf()\' is %1d\n", main_scanf_read_keyinput_len_restricted());
     // main_word_count();

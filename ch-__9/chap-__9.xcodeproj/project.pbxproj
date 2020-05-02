@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		97826DAF23AA6869007E8A6A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA123AA6869007E8A6A /* main.c */; };
-		97826DB023AA6869007E8A6A /* eg-__7b-roman-numerals.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA223AA6869007E8A6A /* eg-__7b-roman-numerals.c */; };
-		97826DB123AA6869007E8A6A /* eg-__7a-roman-numerals.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA323AA6869007E8A6A /* eg-__7a-roman-numerals.c */; };
-		97826DB223AA6869007E8A6A /* eg-__7-roman-numerals.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA423AA6869007E8A6A /* eg-__7-roman-numerals.c */; };
-		97826DB323AA6869007E8A6A /* eg-__6a-cross-assigning-ints-to-chars.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA523AA6869007E8A6A /* eg-__6a-cross-assigning-ints-to-chars.c */; };
-		97826DB423AA6869007E8A6A /* eg-__6-word-count.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA623AA6869007E8A6A /* eg-__6-word-count.c */; };
+		97826DB023AA6869007E8A6A /* eg-__9b-roman-numerals.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA223AA6869007E8A6A /* eg-__9b-roman-numerals.c */; };
+		97826DB123AA6869007E8A6A /* eg-__9a-roman-numerals.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA323AA6869007E8A6A /* eg-__9a-roman-numerals.c */; };
+		97826DB223AA6869007E8A6A /* eg-__9-roman-numerals.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA423AA6869007E8A6A /* eg-__9-roman-numerals.c */; };
+		97826DB323AA6869007E8A6A /* eg-__8a-cross-assigning-ints-to-chars.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA523AA6869007E8A6A /* eg-__8a-cross-assigning-ints-to-chars.c */; };
+		97826DB423AA6869007E8A6A /* eg-__8-word-count.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA623AA6869007E8A6A /* eg-__8-word-count.c */; };
 		97826DB523AA6869007E8A6A /* eg-__5-pointer-arithmetic-addition.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA723AA6869007E8A6A /* eg-__5-pointer-arithmetic-addition.c */; };
 		97826DB623AA6869007E8A6A /* eg-__4a-pointers-and-strings-boundary-overruns.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA823AA6869007E8A6A /* eg-__4a-pointers-and-strings-boundary-overruns.c */; };
 		97826DB723AA6869007E8A6A /* eg-__4-pointer-arithmetic_equality.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DA923AA6869007E8A6A /* eg-__4-pointer-arithmetic_equality.c */; };
@@ -21,6 +21,8 @@
 		97826DBA23AA6869007E8A6A /* eg-__3a-scanf-used-to-read-in-integers.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DAC23AA6869007E8A6A /* eg-__3a-scanf-used-to-read-in-integers.c */; };
 		97826DBB23AA6869007E8A6A /* eg-__2-namer.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DAD23AA6869007E8A6A /* eg-__2-namer.c */; };
 		97826DBC23AA6869007E8A6A /* eg-__1-seeArgs.c in Sources */ = {isa = PBXBuildFile; fileRef = 97826DAE23AA6869007E8A6A /* eg-__1-seeArgs.c */; };
+		97B66FCD244A703B00FC9C6E /* eg-__7-pointer-arithmetic-equivalency.c in Sources */ = {isa = PBXBuildFile; fileRef = 97B66FCC244A703B00FC9C6E /* eg-__7-pointer-arithmetic-equivalency.c */; };
+		97B66FD0244B5FDE00FC9C6E /* eg-__7a-pointer-equivalency-with-chars.c in Sources */ = {isa = PBXBuildFile; fileRef = 97B66FCF244B5FDE00FC9C6E /* eg-__7a-pointer-equivalency-with-chars.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,11 +39,11 @@
 
 /* Begin PBXFileReference section */
 		97826DA123AA6869007E8A6A /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = SOURCE_ROOT; };
-		97826DA223AA6869007E8A6A /* eg-__7b-roman-numerals.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__7b-roman-numerals.c"; sourceTree = SOURCE_ROOT; };
-		97826DA323AA6869007E8A6A /* eg-__7a-roman-numerals.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__7a-roman-numerals.c"; sourceTree = SOURCE_ROOT; };
-		97826DA423AA6869007E8A6A /* eg-__7-roman-numerals.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__7-roman-numerals.c"; sourceTree = SOURCE_ROOT; };
-		97826DA523AA6869007E8A6A /* eg-__6a-cross-assigning-ints-to-chars.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__6a-cross-assigning-ints-to-chars.c"; sourceTree = SOURCE_ROOT; };
-		97826DA623AA6869007E8A6A /* eg-__6-word-count.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__6-word-count.c"; sourceTree = SOURCE_ROOT; };
+		97826DA223AA6869007E8A6A /* eg-__9b-roman-numerals.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__9b-roman-numerals.c"; sourceTree = SOURCE_ROOT; };
+		97826DA323AA6869007E8A6A /* eg-__9a-roman-numerals.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__9a-roman-numerals.c"; sourceTree = SOURCE_ROOT; };
+		97826DA423AA6869007E8A6A /* eg-__9-roman-numerals.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__9-roman-numerals.c"; sourceTree = SOURCE_ROOT; };
+		97826DA523AA6869007E8A6A /* eg-__8a-cross-assigning-ints-to-chars.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__8a-cross-assigning-ints-to-chars.c"; sourceTree = SOURCE_ROOT; };
+		97826DA623AA6869007E8A6A /* eg-__8-word-count.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__8-word-count.c"; sourceTree = SOURCE_ROOT; };
 		97826DA723AA6869007E8A6A /* eg-__5-pointer-arithmetic-addition.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__5-pointer-arithmetic-addition.c"; sourceTree = SOURCE_ROOT; };
 		97826DA823AA6869007E8A6A /* eg-__4a-pointers-and-strings-boundary-overruns.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__4a-pointers-and-strings-boundary-overruns.c"; sourceTree = SOURCE_ROOT; };
 		97826DA923AA6869007E8A6A /* eg-__4-pointer-arithmetic_equality.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__4-pointer-arithmetic_equality.c"; sourceTree = SOURCE_ROOT; };
@@ -50,6 +52,8 @@
 		97826DAC23AA6869007E8A6A /* eg-__3a-scanf-used-to-read-in-integers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__3a-scanf-used-to-read-in-integers.c"; sourceTree = SOURCE_ROOT; };
 		97826DAD23AA6869007E8A6A /* eg-__2-namer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__2-namer.c"; sourceTree = SOURCE_ROOT; };
 		97826DAE23AA6869007E8A6A /* eg-__1-seeArgs.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__1-seeArgs.c"; sourceTree = SOURCE_ROOT; };
+		97B66FCC244A703B00FC9C6E /* eg-__7-pointer-arithmetic-equivalency.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__7-pointer-arithmetic-equivalency.c"; sourceTree = "<group>"; };
+		97B66FCF244B5FDE00FC9C6E /* eg-__7a-pointer-equivalency-with-chars.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "eg-__7a-pointer-equivalency-with-chars.c"; sourceTree = "<group>"; };
 		97CC33BA23AA55C00005F706 /* chap-__9 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "chap-__9"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -104,22 +108,45 @@
 			name = "eg-__5-pointer-arithmetic-addition";
 			sourceTree = "<group>";
 		};
-		97826DC223AA6A7E007E8A6A /* eg-__6-word-count */ = {
+		97826DC223AA6A7E007E8A6A /* eg-__8-word-count */ = {
 			isa = PBXGroup;
 			children = (
-				97826DA623AA6869007E8A6A /* eg-__6-word-count.c */,
+				97826DA623AA6869007E8A6A /* eg-__8-word-count.c */,
 			);
-			name = "eg-__6-word-count";
+			name = "eg-__8-word-count";
 			sourceTree = "<group>";
 		};
-		97826DC323AA6AB8007E8A6A /* eg-__7-roman-numerals */ = {
+		97826DC323AA6AB8007E8A6A /* eg-__9-roman-numerals */ = {
 			isa = PBXGroup;
 			children = (
-				97826DA223AA6869007E8A6A /* eg-__7b-roman-numerals.c */,
-				97826DA323AA6869007E8A6A /* eg-__7a-roman-numerals.c */,
-				97826DA423AA6869007E8A6A /* eg-__7-roman-numerals.c */,
+				97826DA423AA6869007E8A6A /* eg-__9-roman-numerals.c */,
+				97826DA223AA6869007E8A6A /* eg-__9b-roman-numerals.c */,
+				97826DA323AA6869007E8A6A /* eg-__9a-roman-numerals.c */,
 			);
-			name = "eg-__7-roman-numerals";
+			name = "eg-__9-roman-numerals";
+			sourceTree = "<group>";
+		};
+		97B66FCA244A479700FC9C6E /* eg-__6-pointer-arithmetic-subtraction */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "eg-__6-pointer-arithmetic-subtraction";
+			sourceTree = "<group>";
+		};
+		97B66FCB244A47BF00FC9C6E /* eg-__7-pointer-arithmetic-equivalency */ = {
+			isa = PBXGroup;
+			children = (
+				97B66FCC244A703B00FC9C6E /* eg-__7-pointer-arithmetic-equivalency.c */,
+			);
+			name = "eg-__7-pointer-arithmetic-equivalency";
+			sourceTree = "<group>";
+		};
+		97B66FCE244B5F8F00FC9C6E /* eg-__7a-pointer-equivalency-with-chars */ = {
+			isa = PBXGroup;
+			children = (
+				97B66FCF244B5FDE00FC9C6E /* eg-__7a-pointer-equivalency-with-chars.c */,
+			);
+			name = "eg-__7a-pointer-equivalency-with-chars";
 			sourceTree = "<group>";
 		};
 		97CC33B123AA55C00005F706 = {
@@ -134,9 +161,12 @@
 				97826DC023AA6A18007E8A6A /* eg-__4-pointer-arithmetic_equality */,
 				97EF88D923AA78BE00E67EA8 /* eg-__4a-pointers-and-strings-boundary-overruns */,
 				97826DC123AA6A47007E8A6A /* eg-__5-pointer-arithmetic-addition */,
-				97826DC223AA6A7E007E8A6A /* eg-__6-word-count */,
-				97EF88DA23AA78E300E67EA8 /* eg-__6a-cross-assigning-ints-to-chars */,
-				97826DC323AA6AB8007E8A6A /* eg-__7-roman-numerals */,
+				97B66FCA244A479700FC9C6E /* eg-__6-pointer-arithmetic-subtraction */,
+				97B66FCB244A47BF00FC9C6E /* eg-__7-pointer-arithmetic-equivalency */,
+				97B66FCE244B5F8F00FC9C6E /* eg-__7a-pointer-equivalency-with-chars */,
+				97826DC223AA6A7E007E8A6A /* eg-__8-word-count */,
+				97EF88DA23AA78E300E67EA8 /* eg-__8a-cross-assigning-ints-to-chars */,
+				97826DC323AA6AB8007E8A6A /* eg-__9-roman-numerals */,
 				97CC33BB23AA55C00005F706 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -173,12 +203,12 @@
 			name = "eg-__4a-pointers-and-strings-boundary-overruns";
 			sourceTree = "<group>";
 		};
-		97EF88DA23AA78E300E67EA8 /* eg-__6a-cross-assigning-ints-to-chars */ = {
+		97EF88DA23AA78E300E67EA8 /* eg-__8a-cross-assigning-ints-to-chars */ = {
 			isa = PBXGroup;
 			children = (
-				97826DA523AA6869007E8A6A /* eg-__6a-cross-assigning-ints-to-chars.c */,
+				97826DA523AA6869007E8A6A /* eg-__8a-cross-assigning-ints-to-chars.c */,
 			);
-			name = "eg-__6a-cross-assigning-ints-to-chars";
+			name = "eg-__8a-cross-assigning-ints-to-chars";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,18 +268,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97826DB323AA6869007E8A6A /* eg-__6a-cross-assigning-ints-to-chars.c in Sources */,
+				97B66FD0244B5FDE00FC9C6E /* eg-__7a-pointer-equivalency-with-chars.c in Sources */,
+				97826DB323AA6869007E8A6A /* eg-__8a-cross-assigning-ints-to-chars.c in Sources */,
+				97B66FCD244A703B00FC9C6E /* eg-__7-pointer-arithmetic-equivalency.c in Sources */,
 				97826DB823AA6869007E8A6A /* eg-__3c-scanf-read-in-alpha-chars-only.c in Sources */,
-				97826DB223AA6869007E8A6A /* eg-__7-roman-numerals.c in Sources */,
+				97826DB223AA6869007E8A6A /* eg-__9-roman-numerals.c in Sources */,
 				97826DB523AA6869007E8A6A /* eg-__5-pointer-arithmetic-addition.c in Sources */,
-				97826DB423AA6869007E8A6A /* eg-__6-word-count.c in Sources */,
+				97826DB423AA6869007E8A6A /* eg-__8-word-count.c in Sources */,
 				97826DBA23AA6869007E8A6A /* eg-__3a-scanf-used-to-read-in-integers.c in Sources */,
-				97826DB123AA6869007E8A6A /* eg-__7a-roman-numerals.c in Sources */,
+				97826DB123AA6869007E8A6A /* eg-__9a-roman-numerals.c in Sources */,
 				97826DBB23AA6869007E8A6A /* eg-__2-namer.c in Sources */,
 				97826DB723AA6869007E8A6A /* eg-__4-pointer-arithmetic_equality.c in Sources */,
 				97826DAF23AA6869007E8A6A /* main.c in Sources */,
 				97826DBC23AA6869007E8A6A /* eg-__1-seeArgs.c in Sources */,
-				97826DB023AA6869007E8A6A /* eg-__7b-roman-numerals.c in Sources */,
+				97826DB023AA6869007E8A6A /* eg-__9b-roman-numerals.c in Sources */,
 				97826DB923AA6869007E8A6A /* eg-__3b-scanf-read-keyinput-len-restricted.c in Sources */,
 				97826DB623AA6869007E8A6A /* eg-__4a-pointers-and-strings-boundary-overruns.c in Sources */,
 			);

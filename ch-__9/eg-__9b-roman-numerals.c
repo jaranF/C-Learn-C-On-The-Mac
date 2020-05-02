@@ -118,3 +118,4 @@ char* ConvertIntArrayToChar2(const int* pointerToArray, int intArraySize, char* 
     return charArrayResult;
 }
 // ret romanStringBuilder, incrementable pointer to char array, incrementalable pointer to int array of Numeral values 1000, 500, 100, incrementalble pointer to cooresponding int value of numerals
+

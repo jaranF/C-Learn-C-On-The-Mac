@@ -12,7 +12,7 @@
 void main_pointer_arithmetic_addition( void );
 //|------->      END      <--------|
 
-void main_pointer_arithmetic_addition( void )
+void main_pointer_arithmetic_addition()
 {
     double array[iSizeOfArray];
     array[0] = 1.1;
