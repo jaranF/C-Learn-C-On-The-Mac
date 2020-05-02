@@ -149,8 +149,8 @@
 			isa = PBXGroup;
 			children = (
 				97D5DE3B1A60B8D100E0016A /* eg-__5-switch-statement.c */,
-				97D5DE411A6354A400E0016A /* eg-__5b-switch-statement.c */,
 				97D5DE3F1A62780900E0016A /* eg-__5a-switch-statement.c */,
+				97D5DE411A6354A400E0016A /* eg-__5b-switch-statement.c */,
 			);
 			name = "eg-__5-switch-statement";
 			path = "chap-__6";
